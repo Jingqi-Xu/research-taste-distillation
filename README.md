@@ -221,7 +221,7 @@ Contributions welcome! Particularly:
 - **New researcher profiles** — Run the skill, validate the output, submit as an example
 - **Prompt improvements** — Better extraction or critique instructions in SKILL.md
 - **Methodology refinements** — Improvements to triple verification or fusion logic
-ee
+
 ---
 
 ## License
