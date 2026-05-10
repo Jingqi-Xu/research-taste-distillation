@@ -1,0 +1,42 @@
+# Python version (not open-sourced)
+src/
+app.py
+requirements.txt
+configs/
+
+# Environment
+.env
+.env.example
+
+# Local workspace & data
+.claude/
+data/
+nuwa-skill/
+
+# Original skill folder (duplicated at root)
+skill/
+
+# Documents
+*.docx
+
+# Image assets from Cursor
+assets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Terminals
+terminals/
